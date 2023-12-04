@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666662384975",
+    "project_id": "mediarecorder-2500e",
+    "storage_bucket": "mediarecorder-2500e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666662384975:android:598ebf93016cc4bf05013a",
+        "android_client_info": {
+          "package_name": "com.example.mediarecorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVz4tnRMl2RUABfG9FFXCFVPm7qyan10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
